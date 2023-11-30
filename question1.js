@@ -1,22 +1,9 @@
-/**
- * ===== Troubleshooting =====
- * The function below should log the number 2, however it does not, 
- * see if you can fix it!
- * Be sure to fix it in the spirit of the code, do not hard code the result.
- */
-function troubleshooting() {
-	const a = 1;
-	const b = 1;
+/* Your task is to make a conditional statement that checks to see if
+ the user inputted number is greater than or equal to 8, if it is
+ console.log false    
+ //use and else statment if it isn't greater than or equal to 8, console.log false
+*/
 
-	let result;
+number = Number(prompt('Enter a number'));
 
-	// Edit between these lines
-	// =================================
-	result = a + b;
 
-	// =================================
-
-	return result;
-}
-
-console.log(troubleshooting())

@@ -1,9 +1,11 @@
-number = Number(prompt("enter a number"));
+/*  
+for this question, you will be using 2 if and else if statments to check
+to see if the user input is greater than 8, and check to see if it 
+is less than 8
+if it is greater than 8, console.log true
+//if it is less then 8, console.log false
+//Make an else statement that checks if the user inputed a number,
+if they don't, say please enter a valid number
+*/
 
-function numberChecker() {
-	if(number >= 6) {
-		return true;
-	} else {
-		return false;
-	}
-}
+number = Number(prompt('Enter a number'));
