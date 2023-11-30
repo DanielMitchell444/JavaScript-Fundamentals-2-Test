@@ -7,4 +7,6 @@
 
 number = Number(prompt('Enter a number'));
 
+//Answer goes here //
+
 

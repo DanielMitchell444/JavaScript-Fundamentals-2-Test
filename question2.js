@@ -10,3 +10,5 @@ if they don't, say please enter a valid number
 */
 
 number = Number(prompt('Enter a number'));
+
+//ANSWER GOES HERE//
